@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:fluttertask/components/customer_info_card.dart';
 import 'package:fluttertask/theme/app_pallete.dart';
 
 import '../components/customcard.dart';
